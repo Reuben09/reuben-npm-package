@@ -1,0 +1,25 @@
+{
+  "name": "reuben-npm-package",
+  "version": "1.0.0",
+  "description": "Basic task manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reuben09/reuben-npm-package.git"
+  },
+  "keywords": [
+    "task"
+  ],
+  "author": "Reuben",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reuben09/reuben-npm-package/issues"
+  },
+  "homepage": "https://github.com/Reuben09/reuben-npm-package#readme",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
